@@ -4,7 +4,7 @@
 
 <a href="https://www.xinyunfan.com/">
   <img
-    src="https://placehold.co/1600x500/F5F0E0/4B3278?text=Your+Banner+Here"
+    src="banner.png"
     alt="Xinyun Fan Banner"
     width="100%"
   />
