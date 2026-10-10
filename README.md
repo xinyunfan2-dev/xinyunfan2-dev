@@ -112,33 +112,9 @@ NumPy · Pandas · Scikit-learn · XGBoost · Hugging Face
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=xinyunfan2-dev&show_icons=true&theme=transparent&hide_border=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunfan2-dev&layout=compact&theme=transparent&hide_border=true"
-  height="165"
-/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.xinyunfan.com/">
-  <img src="https://img.shields.io/badge/Website-xinyunfan.com-6C4AB6?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/xinyunfan2-dev">
-  <img src="https://img.shields.io/badge/GitHub-xinyunfan2--dev-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=xinyunfan2-dev&color=6C4AB6&style=flat-square&label=Profile+Views"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunfan2-dev&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 
 </div>
