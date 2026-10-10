@@ -22,6 +22,10 @@ AI / Machine Learning · Software Engineering · Full-Stack Development
 
 <br/>
 
+<a href="https://www.xinyunfan.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C4AB6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/xinyunfan2-dev">
   <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
